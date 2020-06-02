@@ -1,2 +1,2 @@
 # E.D.A-
- exploratory data analysis
+ exploratory data analysis with Seaborn 

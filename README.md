@@ -1,2 +1,3 @@
 # E.D.A-
- Statistical data visualization with Seaborn 
+ exploratory data analysis >> ( Breast Cancer Diagnosis )
+ 
